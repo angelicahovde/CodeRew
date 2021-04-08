@@ -1,0 +1,7 @@
+﻿namespace CodeRew
+{
+    class Comand
+    {
+
+    }
+}
